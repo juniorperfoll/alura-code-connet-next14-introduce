@@ -142,3 +142,22 @@
 {"level":"info","message":"Posts obtidos com sucesso da API"}
 {"level":"info","message":"Posts obtidos com sucesso da API"}
 {"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"error":{},"level":"error","message":"Falha ao obter o post","slug":"sass-simplificando-o-cssss"}
+{"error":{},"level":"error","message":"Falha ao obter o post","slug":"sass-simplificando-o-cssss"}
+{"error":{},"level":"error","message":"Falha ao obter o post","slug":"sass-simplificando-o-cssss"}
+{"error":{},"level":"error","message":"Falha ao obter o post","slug":"introducao-ao-reacthh"}
+{"error":{},"level":"error","message":"Falha ao obter o post","slug":"gerenciamento-de-estado-com-redux-fsdfds"}
+{"error":{},"level":"error","message":"Falha ao obter o post","slug":"sass-simplificando-o-cssssss"}
+{"error":{"clientVersion":"5.18.0","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
+{"error":{"clientVersion":"5.18.0","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
+{"error":{"clientVersion":"5.18.0","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
